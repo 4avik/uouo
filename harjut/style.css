@@ -1,0 +1,8 @@
+* {
+    text-decoration: none;
+    border: 3px dashed darkkhaki;
+}
+
+.article {
+    display: inline-block;
+}
